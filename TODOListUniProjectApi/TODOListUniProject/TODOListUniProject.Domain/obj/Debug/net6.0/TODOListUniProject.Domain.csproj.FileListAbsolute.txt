@@ -1,0 +1,17 @@
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\bin\Debug\net6.0\TODOListUniProject.Domain.deps.json
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\bin\Debug\net6.0\TODOListUniProject.Domain.dll
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\bin\Debug\net6.0\TODOListUniProject.Domain.pdb
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\bin\Debug\net6.0\TODOListUniProject.Contracts.dll
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\bin\Debug\net6.0\TODOListUniProject.Contracts.pdb
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\obj\Debug\net6.0\TODOListUniProject.Domain.csproj.AssemblyReference.cache
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\obj\Debug\net6.0\TODOListUniProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\obj\Debug\net6.0\TODOListUniProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\obj\Debug\net6.0\TODOListUniProject.Domain.AssemblyInfo.cs
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\obj\Debug\net6.0\TODOListUniProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\obj\Debug\net6.0\TODOListUniProject.Domain.csproj.CopyComplete
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\obj\Debug\net6.0\TODOListUniProject.Domain.dll
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\obj\Debug\net6.0\refint\TODOListUniProject.Domain.dll
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\obj\Debug\net6.0\TODOListUniProject.Domain.pdb
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\obj\Debug\net6.0\ref\TODOListUniProject.Domain.dll
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\bin\Debug\net6.0\TODOListUniProject.Domain.runtimeconfig.json
+C:\Users\Виталий\WebsiteProjects\TODOListUniProject\TODOListUniProject.Domain\obj\Debug\net6.0\TODOListUniProject.Domain.genruntimeconfig.cache
